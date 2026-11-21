@@ -1,0 +1,8 @@
+{
+  "name": "Galaxy Tunnel – Free High-Speed VLESS & Trojan VPN Hub",
+  "description": "Galaxy Tunnel – High-speed, secure, and free public VLESS and Trojan VPN configurations with live ping checks and sublink generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
